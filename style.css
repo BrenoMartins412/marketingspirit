@@ -36,7 +36,6 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: radial-gradient(circle at top, #262626 0, #050505 60%);
   color: var(--branco-gelo);
-  min-width: 1120px;
 }
 
 /* ====== CONTAINER / SEÇÕES ====== */
@@ -204,7 +203,7 @@ p {
   color: var(--caramelo);
 }
 
-/* ====== HERO VISUAL / BRENO MARTINS (LUZ MODERADA) ====== */
+/* ====== HERO VISUAL / BRENO MARTINS ====== */
 .hero-visual {
   position: relative;
   width: 100%;
@@ -246,7 +245,7 @@ p {
   mix-blend-mode: screen;
 }
 
-/* ====== ABOUT (MESMA LUZ DO BRENO E MESMO TAMANHO) ====== */
+/* ====== ABOUT ====== */
 .about {
   background: linear-gradient(to bottom, #060606, #101010);
 }
@@ -345,7 +344,7 @@ p {
   box-shadow: var(--shadow-glow);
 }
 
-/* ====== MOTION (SEM TEXTOS) ====== */
+/* ====== MOTION ====== */
 .motion-section {
   background: #0a0a0a;
   padding: 60px 0;
